@@ -1,0 +1,10 @@
+Sensor Kapasitif:
+🟤 Coklat → VCC Adaptor (12V)
+🔵 Biru → GND Adaptor + GND ESP32 (di-jumper/share)
+⚫ Hitam → GPIO4 ESP32, dan dari titik yang sama tarik ke Resistor 10kΩ → 3.3V ESP32
+
+Sensor Induktif:
+🟤 Coklat → VCC Adaptor (12V)
+🔵 Biru → GND Adaptor + GND ESP32 (di-jumper/share)
+⚫ Hitam → GPIO4 ESP32, dan dari titik yang sama tarik ke Resistor 10kΩ → 3.3V ESP32
+
