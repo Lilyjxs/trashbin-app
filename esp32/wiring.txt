@@ -1,0 +1,16 @@
+Sensor Kapasitif:
+🟤 Coklat → VCC Adaptor (12V)
+🔵 Biru → GND Adaptor + GND ESP32 (di-jumper/share)
+⚫ Hitam → GPIO5 ESP32, dan dari titik yang sama tarik ke Resistor 10kΩ → 3.3V ESP32 (Oren pin, merah 3.3V)
+
+Sensor Induktif:
+🟤 Coklat → VCC Adaptor (12V)
+🔵 Biru → GND Adaptor + GND ESP32 (di-jumper/share)
+⚫ Hitam → GPIO4 ESP32, dan dari titik yang sama tarik ke Resistor 10kΩ → 3.3V ESP32 (Abu pin, Ijo 3.3V)
+
+
+LCD OLED:
+GPIO 22 => IJO / Merah
+GND     => Oren / Kuning
+V++	=> Coklat / Putih
+GPIO 21 => Abu / Hitam
